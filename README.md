@@ -9,8 +9,7 @@ The data and objective are pulled from the 2017 ISIC Challenge on Skin Lesion An
 
 # Team Members 
 
-* Vignesh C
-* Shyam Sundar V [shyamStarwalt](https://github.com/shyamStarwalt)
+badis sdiri 
 
 # Getting Started
 Clone the repository and create a data/ folder to hold the dataset of skin images.
@@ -50,7 +49,7 @@ Place the training, validation, and test images in the `data/` folder, at `data/
 1. Clone the repository and navigate to the downloaded folder.
 
 	```	
-	git clone https://github.com/shyamStarwalt/Dermatologist-AI.git
+	git clone https://github.com/badis7/skin_cancer_detection.git
 	cd cancer_detection
 	```
 2. Open the cancer_detection.ipynb
