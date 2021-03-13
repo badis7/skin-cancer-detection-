@@ -15,7 +15,7 @@ badis sdiri
 Clone the repository and create a data/ folder to hold the dataset of skin images.
 
 ```
-git clone https://github.com/udacity/dermatologist-ai.git
+git clone https://github.com/udacity/skin_cancer_detection.git
 mkdir data; cd data
 ```
 Create folders to hold the training, validation, and test images.
