@@ -1,4 +1,4 @@
-# Dermatologist AI
+# skin_cancer_detection
 
 # Introduction
 An algorithm that can visually diagnose melanoma, the deadliest form of skin cancer. In particular, algorithm will distinguish this malignant skin tumor from two types of benign lesions (nevi and seborrheic keratoses).
@@ -7,7 +7,7 @@ The data and objective are pulled from the 2017 ISIC Challenge on Skin Lesion An
 
 <img src='skin.png' width=500px>
 
-# Team Members 
+# created by : 
 
 badis sdiri 
 
